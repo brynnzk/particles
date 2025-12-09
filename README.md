@@ -1,5 +1,15 @@
 # particles
 
+acknowledgement:
+
+I wanna express my gratitude and thanks to my friend, Elijah,
+who gave me the courage to push my first project in Github.
+
+P/S: Give him a follow @kejiahp
+
+project description: TBA 
+
+NOTE:
 ⚠️ IMPORTANT: Solution Retargeting Required ⚠️
 Welcome to the repository! Before you can successfully build and run this solution, you must retarget the projects within your code editor.
 
