@@ -5,7 +5,7 @@ acknowledgement:
 I wanna express my gratitude and thanks to my friend, Elijah,
 who gave me the courage to push my first project in Github.
 
-P/S: Give him a follow @kejiahp
+P/S: Give him a follow [@kejiahp](https://github.com/kejiahp)
 
 project description: TBA 
 
